@@ -1,0 +1,3 @@
+We will be covering general time series analysis in Lesson 15, but here are some extra links to help you get a sense for timeseries decomposition:
+[decomposition with statsmodel](http://www.cbcity.de/timeseries-decomposition-in-python-with-statsmodels-and-pandas) - This includes a brief IP notebook to help you implement code.
+[blog on time series forecasting](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) - Quite a bit of material in this one. But I've read other topics on this blog and tends to be very good.
